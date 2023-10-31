@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes as RouterRoutes } from 'react-router-dom';
 import RecemNascido from '../components/RecemNascido';
 import PrimeiroMes from '../components/PrimeiroMes';
-import DoisMeses from '../components/doisMeses';
+import DoisMeses from '../components/DoisMeses';
 import QuatroMeses from '../components/QuatroMeses';
 import SeisMeses from '../components/SeisMeses';
 import NoveMeses from '../components/NoveMeses';
